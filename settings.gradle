@@ -1,0 +1,2 @@
+rootProject.name='MyKL_App'
+include ':app'
